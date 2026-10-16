@@ -14,7 +14,7 @@ Screenshots:
 
 # 🏍️🚗 Siap SIM
 
-Aplikasi web untuk **berlatih pengetahuan dan pengambilan keputusan berlalu lintas** bagi calon pemohon SIM di Indonesia. Satu aplikasi untuk dua golongan SIM: **SIM C** (sepeda motor) dan **SIM A** (mobil). Aplikasi ini memadukan **kuis teori** (rambu, marka, aturan prioritas) dengan **simulasi interaktif** situasi jalan yang nyata sehari-hari, misalnya pindah lajur, putar balik, keluar gang, atau melewati zebra cross.
+Aplikasi web/mobile untuk **berlatih pengetahuan dan pengambilan keputusan berlalu lintas** bagi calon pemohon SIM di Indonesia. Satu aplikasi untuk dua golongan SIM: **SIM C** (sepeda motor) dan **SIM A** (mobil). Aplikasi ini memadukan **kuis teori** (rambu, marka, aturan prioritas) dengan **simulasi interaktif** situasi jalan yang nyata sehari-hari, misalnya pindah lajur, putar balik, keluar gang, atau melewati zebra cross.
 
 > ⚠️ **Penafian.** Proyek ini adalah alat belajar independen. Aplikasi ini **bukan** bagian dari sistem ujian resmi Polri dan **tidak menggantikan** ujian teori maupun praktik SIM yang sebenarnya. Isi soal dan aturan masih dalam tahap peninjauan (lihat [Status](#status)).
 
