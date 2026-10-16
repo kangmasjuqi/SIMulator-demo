@@ -55,3 +55,9 @@ Di awal simulasi Anda memilih **SIM C (motor)** atau **SIM A (mobil)**, dan kend
 | Perlintasan kereta api | | ✅ |
 
 Tampilan menyesuaikan mode terang dan gelap, dan dirancang untuk layar HP.
+
+** Kode sumber
+https://github.com/kangmasjuqi/SIMulator
+
+** Kontak
+marjuqi[dot]rahmat[at]gmail[dot]com
